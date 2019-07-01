@@ -1,1 +1,1 @@
-##dynamical systems in neuroscienc
+## dynamical systems in neuroscienc
